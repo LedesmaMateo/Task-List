@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Estudiar",
+      "day": "26 de Junio",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Jugar al futbol",
+      "day": "27 de Junio",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Terminar proyecto de Angular",
+      "day": "29 de Junio",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
