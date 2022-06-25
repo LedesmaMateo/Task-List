@@ -2,3 +2,7 @@ footer{
     margin-top: 20px;
     text-align: center;
 }
+
+a, p{
+    margin: 5px;
+}

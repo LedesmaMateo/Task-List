@@ -1,3 +1,7 @@
 div{
     padding: 10px;
 }
+
+h2, h4, a{
+    margin-top: 4px;
+}

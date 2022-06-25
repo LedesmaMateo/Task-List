@@ -4,6 +4,10 @@
     src: url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 }
 
+html, body{
+    background-color: rgb(24, 21, 21);
+}
+
 *{
     box-sizing: border-box;
     margin: 0;
